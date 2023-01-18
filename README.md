@@ -72,5 +72,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 TODO:
  - Create a new function
  - Add gh-pages
-
- Thomas: tlodi@centrosoftware.com
+ 
+ 
+ ### Contributors
+ 
+ - Vittorio Ferri (vferri@centrosoftware.com)
+ - Stefano Fortini
+ - Thomas: tlodi@centrosoftware.com
