@@ -49,6 +49,9 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
+
+Luca Rainieri!
+
 ### Analyzing the Bundle Size
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
@@ -72,10 +75,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 TODO:
  - Create a new function
  - Add gh-pages
- 
- 
- ### Contributors
+
+### Contributors
  
  - Vittorio Ferri (vferri@centrosoftware.com)
  - Stefano Fortini
+
  - Thomas: tlodi@centrosoftware.com
+ - Stefano Marisi (smarisi@centrosoftware.com)
