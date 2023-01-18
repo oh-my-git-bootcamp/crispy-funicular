@@ -80,4 +80,6 @@ TODO:
  
  - Vittorio Ferri (vferri@centrosoftware.com)
  - Stefano Fortini
+
+ - Thomas: tlodi@centrosoftware.com
  - Stefano Marisi (smarisi@centrosoftware.com)
