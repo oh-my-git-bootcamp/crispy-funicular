@@ -19,6 +19,9 @@ function App() {
         </a>
       </header>
     </div>
+    <div>
+      Annalisa Fortini email: afortini@centrosoftware.com
+    </div>
   );
 }
 
