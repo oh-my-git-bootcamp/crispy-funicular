@@ -73,6 +73,8 @@ TODO:
  - Create a new function
  - Add gh-pages
  
+ 
  ### Contributors
  
  - Vittorio Ferri (vferri@centrosoftware.com)
+ - Stefano Fortini
