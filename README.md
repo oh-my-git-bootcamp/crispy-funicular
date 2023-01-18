@@ -72,3 +72,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 TODO:
  - Create a new function
  - Add gh-pages
+ 
+ ### aggiunto commento SDroghetti-CSW h15.29 
