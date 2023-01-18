@@ -73,5 +73,8 @@ TODO:
  - Create a new function
  - Add gh-pages
 
-
-Stefano Marisi smarisi@centrosoftware.com
+### Contributors
+ 
+ - Vittorio Ferri (vferri@centrosoftware.com)
+ - Stefano Fortini
+ - Stefano Marisi (smarisi@centrosoftware.com)
